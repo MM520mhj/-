@@ -1,0 +1,15 @@
+
+b	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(…áùÛ8µÁŸ÷ğ1
+x
+java:S14883"[Immediately return this expression instead of assigning it to the temporary variable "url".(‹ç—Ì8¶ÁŸ÷ğ1
+y
+java:S1488:"\Immediately return this expression instead of assigning it to the temporary variable "call".(º…Åİ8¶ÁŸ÷ğ1
+k
+java:S2095V"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(ŠÀø¯8ÆÁŸ÷ğ1
+L	java:S106#"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8ÉÁŸ÷ğ1
+L	java:S106)"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8ÊÁŸ÷ğ1
+G	java:S106+"+Replace this use of System.out by a logger.(¤åºš8ËÁŸ÷ğ1
+L	java:S1061"+Replace this use of System.out by a logger.(øºÑûúÿÿÿÿ8ËÁŸ÷ğ1
+\	java:S899T";Do something with the "boolean" value returned by "delete".(²Œ­ûÿÿÿÿ8ÏÁŸ÷ğ1
+p
+java:S4042T"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(²Œ­ûÿÿÿÿ8ÏÁŸ÷ğ1

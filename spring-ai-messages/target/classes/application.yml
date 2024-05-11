@@ -1,0 +1,8 @@
+spring:
+  ai:
+    openai:
+      api-key: sk-s4u6CAtAAXpbE8hq92B50fE873C8490f9816C455146621D8
+      base-url: https://api.xty.app
+
+server:
+  port: 8080
